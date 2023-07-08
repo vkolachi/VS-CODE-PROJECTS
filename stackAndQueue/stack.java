@@ -16,7 +16,7 @@ public class stack{
 
         //void do(Stack<Integer> st)   like this it will be defined
         //anything that is initialized with new keyword tht will be stored in heap memory(dynamic memory)
-        //others (int ,string ) these will be stored in stack memory(static memory)
+        //others (int ,string ) these will be stored in stack memory(static memory)x
          
         
     }
